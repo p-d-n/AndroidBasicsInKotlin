@@ -3,7 +3,11 @@ package introductionToKotlin
  * Write your first program in Kotlin
  */
 fun main() {
-    println("=======================")
+    printBorder()
     println("Happy Birthday, Jhansi!")
+    printBorder()
+}
+
+fun printBorder() {
     println("=======================")
 }
