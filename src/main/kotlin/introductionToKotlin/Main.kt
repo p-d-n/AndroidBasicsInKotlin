@@ -1,6 +1,8 @@
 package introductionToKotlin
 /*
  * Write your first program in Kotlin
+ * https://kotlinlang.org/docs/basic-syntax.html
+ * https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/repeat.html
  */
 fun main() {
     val age = 24
