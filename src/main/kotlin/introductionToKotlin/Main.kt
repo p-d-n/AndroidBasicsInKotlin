@@ -1,4 +1,4 @@
-package IntroductionToKotlin
+package introductionToKotlin
 /*
  * Write your first program in Kotlin
  */
